@@ -1,14 +1,3 @@
-<<<<<<< HEAD
-/*!
-
-*/
-
-
-
-
-
-=======
->>>>>>> fc1480c (Initial commit or latest updates)
 let slideIndex = 0;
 const slides = document.querySelectorAll('.slides');
 const slideInterval = 8000; // 8 seconds per slide
